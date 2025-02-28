@@ -1,1 +1,1 @@
-ubuntu/squid:latest crpi-2rj17mc7ziw3cek2.cn-guangzhou.personal.cr.aliyuncs.com/dify-gerry/squid:latest
+langgenius/dify-api:0.15.3 crpi-2rj17mc7ziw3cek2.cn-guangzhou.personal.cr.aliyuncs.com/dify-gerry/dify-api:0.15.3
