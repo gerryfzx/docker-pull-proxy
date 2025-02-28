@@ -1,1 +1,1 @@
-langgenius/dify-web:0.15.3 crpi-2rj17mc7ziw3cek2.cn-guangzhou.personal.cr.aliyuncs.com/dify-gerry/dify-web:0.15.3
+postgres:15-alpine crpi-2rj17mc7ziw3cek2.cn-guangzhou.personal.cr.aliyuncs.com/dify-gerry/postgres:15-alpine
