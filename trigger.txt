@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.10 crpi-2rj17mc7ziw3cek2.cn-guangzhou.personal.cr.aliyuncs.com/dify-gerry/dify-sandbox:0.2.10
+nginx:latest crpi-2rj17mc7ziw3cek2.cn-guangzhou.personal.cr.aliyuncs.com/dify-gerry/nginx:latest
