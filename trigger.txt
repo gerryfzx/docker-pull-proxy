@@ -1,1 +1,1 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/gkzx2024/nginx:latest
+ubuntu/squid:latest crpi-2rj17mc7ziw3cek2.cn-guangzhou.personal.cr.aliyuncs.com/dify-gerry/squid:latest
